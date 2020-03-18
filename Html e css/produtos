@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+	<title>Artech Ar Condicionado</title>
+	<meta charset="utf-8">
+	<meta name="description" content="Site Artech Ar Condicionados">
+	<meta name="keywords" content="Ar-condicionado,Refrigeração, Inverter, janela, Split, Aquecedores, Arthec">
+	<meta name="viewport" content="whidth=device-width, Intial-scale=1.0">
+
+	<link rel="stylesheet" type="text/css" href="site.css">
+
+</head>
+<body>
+	<header>
+		<img src="logo.png" alt="Logo da Arthec Ar condicionados">
+		<h1>Arthec Ar Condicionados</h1>
+	</header>
+	<nav>
+		<a href="index.html"><div class="opcao">Inicio</div></a>
+		<a href="produtos.html"><div class="opcao">Produtos</div></a>
+		<a href="faleconosco.html"><div class="opcao">Fale Conosco</div></a>
+	</nav>
+</header>
+	
+
+
+	<section>
+		<div id="topo" align="center">
+			<img alt="Imagem de um ar condicionado" src="arcondicionado.png" class="topo2">
+		</div>
+
+	<h2>CONHEÇA NOSSOS PRODUTOS</h2>
+
+		<table class="tabelaProdutos">
+			<thead>
+				<tr>
+					<th colspan="6" class="tituloTabela">Ar Condicionados</th>
+				</tr>
+				<tr>
+					<th>Descrição</th>
+					<th>Modelo</th>
+					<th>Ciclo</th>
+					<th>Capacidade</th>
+					<th>Preço</th>
+					<th>Informações</th>
+				</tr>
+			<thead>
+			<tbody>
+				<tr>
+					<th>Ar Condicionado LG</th>
+					<th>S4-W12JA3WA</th>
+					<th>Quente/Frio</th>
+					<th>12.000 BTUs</th>
+					<th>R$1.800,00</th>
+					<th><a href="1g.html"><img src="lgicon.png" class="imagentb"></a></th>
+				</tr>
+
+				<tr>
+					<th>Ar Condicionados Consul</th>
+					<th>S4-W12JA3WA</th>
+					<th>Quente/Frio</th>
+					<th>9.000 BTUs</th>
+					<th>R$1.200,00</th>
+					<th><a href="consul.html"><img src="consul.png" class="imagentb"></a></th>
+				</tr>
+				<tr>
+					<th>Ar Condicionados Eletrolux</th>
+					<th>S4-W12JA3WA</th>
+					<th>Frio</th>
+					<th>12.000 BTUs</th>
+					<th>R$1.190,00</th>
+					<th><a href="eletrolux.html"><img src="electrolux.png" class="imagentb"></a></th>
+				</tr>
+				<tr>
+					<th>Ar Condicionados Brastemp</th>
+					<th>S4-W12JA3WA</th>
+					<th>Frio</th>
+					<th>14.000 BTUs</th>
+					<th>R$2.200,00</th>
+					<th><a href="brastemp.html"><img src="brastemp.png" class="imagentb"></a></th>
+				</tr>
+				<tr>
+					<th>Ar Condicionados Eling</th>
+					<th>S4-W12JA3WA</th>
+					<th>Frio</th>
+					<th>9.000 BTUs</th>
+					<th>R$2.000,00</th>
+					<th><a href="Elgin.html"><img src="Elgin.png" class="imagentb"></a></th>
+				</tr>
+			</tbody>
+		</table>
+<br>
+<br>
+	
+	<table class="tabelaProdutos">
+		<thead>
+			<tr>
+				<th colspan="5" class="tituloTabela">Aquecedores</th>
+			</tr>
+				<tr>
+					<th>Descrição</th>
+					<th>Watts</th>
+					<th>Voltagem</th>
+					<th>Preço</th>
+				</tr>
+		</thead>
+		<tbody>
+				<tr>
+					<th>Aquecedor</th>
+					<th>1.400 W</th>
+					<th>220V</th>
+					<th>R$ 800,00</th>
+				</tr>
+
+				<tr>
+					<th>Aquecedor</th>
+					<th>1.600 W</th>
+					<th>220V</th>
+					<th>R$ 1.200,00</th>
+				</tr>
+				<tr>
+					<th>Aquecedor</th>
+					<th>1.600 W</th>
+					<th>220V/110V</th>
+					<th>R$ 1.400,00</th>
+				</tr>
+				<tr>
+					<th>Aquecedor</th>
+					<th>2.400 W</th>
+					<th>220V</th>
+					<th>R$ 1.800,00</th>
+				</tr>
+
+			</tbody>
+	</table>
+
+	</section>
+	<footer>Copyright &copy;Artech Ar Consicionados 2019 </footer>
+
+</body>
+</html>
